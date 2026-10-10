@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "openartifact",
+  "versions": [
+    {
+      "commit": "29b03bc46ce85c8681afe8b1489a9344af123637",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:56:13.061329+00:00"
+    }
+  ]
+}
